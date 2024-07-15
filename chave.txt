@@ -1,1 +1,4 @@
-
+[
+    {"Chave1": "HWID1"},
+    {"Chave2": "HWID2"}
+]
